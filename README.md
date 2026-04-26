@@ -1,6 +1,13 @@
 # Slug Generator
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
+
+`slug` `generator` `docker` `random` `cli` `nodejs`
+
 A professional-grade command-line utility for generating high-entropy, Docker-style random identifiers. This tool combines adjectives and nouns to create human-readable slugs suitable for project names, container identifiers, or unique session keys.
+
 
 ## Overview
 
