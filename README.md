@@ -6,6 +6,10 @@
 
 `slug` `generator` `docker` `random` `cli` `nodejs`
 
+<p align="center">
+  <img src="./assets/banner.png" alt="Slug Generator Banner" width="100%">
+</p>
+
 A professional-grade command-line utility for generating high-entropy, Docker-style random identifiers. This tool combines adjectives and nouns to create human-readable slugs suitable for project names, container identifiers, or unique session keys.
 
 
