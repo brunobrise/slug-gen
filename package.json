@@ -1,0 +1,17 @@
+{
+  "name": "slug-gen",
+  "version": "1.0.0",
+  "description": "Docker-style random slug generator",
+  "main": "bin/slug-gen",
+  "bin": {
+    "slug-gen": "bin/slug-gen"
+  },
+  "keywords": [
+    "slug",
+    "generator",
+    "docker",
+    "random"
+  ],
+  "author": "brunobrise",
+  "license": "MIT"
+}
